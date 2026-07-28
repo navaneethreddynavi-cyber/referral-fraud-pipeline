@@ -1,0 +1,9 @@
+column_name,data_type,null_count,distinct_value_count
+id,int64,0,29
+user_id,str,0,9
+name,str,0,7
+phone_number,str,0,9
+homeclub,str,0,6
+timezone_homeclub,str,0,2
+membership_expired_date,str,0,9
+is_deleted,bool,0,2

@@ -1,0 +1,5 @@
+column_name,data_type,null_count,distinct_value_count
+id,int64,0,3
+reward_value,str,0,3
+created_at,str,0,3
+reward_type,int64,0,1
