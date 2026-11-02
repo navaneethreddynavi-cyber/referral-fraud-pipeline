@@ -84,7 +84,3 @@ Python | Pandas | ETL Pipelines | Data Cleaning | Data Transformation | Data Int
 
 ## Author
 **Navaneeth Reddy Banala**
-
----
-
-*Note: This project uses business-rule-based referral validation, not a trained machine learning model.*
